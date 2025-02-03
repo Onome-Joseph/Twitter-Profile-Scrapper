@@ -6,18 +6,18 @@ This project is a **Python-based web scraper** that extracts Twitter profile det
 - **Following Count**  
 - **Followers Count**  
 - **Location**  
-- **Website (if available)**  
+- **Website (if available)**
 
-The extracted data is stored in a **CSV file** for further analysis.  
+## **The extracted data is stored in a **CSV file** for further analysis.**  
+
 ---
-## **Features**  
- **Automated Login:** Logs into Twitter using provided credentials.  
- **Scrapes Multiple Profiles:** Reads links from a CSV file and extracts profile details.  
- **Handles Restricted Profiles:** Ensures authentication before scraping.  
- **Error Handling:** Skips missing elements to avoid script failure.  
+- **Automated Login:** Logs into Twitter using provided credentials.  
+- **Scrapes Multiple Profiles:** Reads links from a CSV file and extracts profile details.  
+- **Handles Restricted Profiles:** Ensures authentication before scraping.  
+- **Error Handling:** Skips missing elements to avoid script failure.  
 ---
 
-## ** Installation & Setup**  
+## **Installation & Setup**
 ### **1 Clone the Repository**  
 ```bash
 git clone https://github.com/Onome-Joseph/Twitter-Profile-Scraper.git
