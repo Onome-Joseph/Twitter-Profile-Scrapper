@@ -20,7 +20,7 @@ This project is a **Python-based web scraper** that extracts X profile details u
 ## **Installation & Setup**
 ### **1 Clone the Repository**  
 ```bash
-git clone https://github.com/Onome-Joseph/X-profile-scrapping.git
+git clone https://github.com/Onome-Joseph/X-Profile-Scrapping.git
 ```
 
 ### **2 Install Dependencies**    
