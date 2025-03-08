@@ -1,4 +1,6 @@
 selenium
+beautifulsoup4
+time
 csv
 # A twitter account with known username and password
 # chromedriver.exe that matches the same version of your 'Chrome browser'
